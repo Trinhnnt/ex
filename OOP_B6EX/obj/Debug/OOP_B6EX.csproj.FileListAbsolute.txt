@@ -1,0 +1,7 @@
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\bin\Debug\OOP_B6EX.exe.config
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\bin\Debug\OOP_B6EX.exe
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\bin\Debug\OOP_B6EX.pdb
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\obj\Debug\OOP_B6EX.csproj.AssemblyReference.cache
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\obj\Debug\OOP_B6EX.csproj.CoreCompileInputs.cache
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\obj\Debug\OOP_B6EX.exe
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 6\OOP_B6EX\obj\Debug\OOP_B6EX.pdb

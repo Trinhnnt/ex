@@ -1,0 +1,7 @@
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\bin\Debug\OOP_Lab01.exe.config
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\bin\Debug\OOP_Lab01.exe
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\bin\Debug\OOP_Lab01.pdb
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\obj\Debug\OOP_Lab01.csproj.AssemblyReference.cache
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\obj\Debug\OOP_Lab01.csproj.CoreCompileInputs.cache
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\obj\Debug\OOP_Lab01.exe
+D:\Tai lieu ueh\Lập trình hướng đối tượng\BT\Buổi 1\OOP_Lab01\obj\Debug\OOP_Lab01.pdb
